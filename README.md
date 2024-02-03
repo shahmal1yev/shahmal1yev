@@ -1,7 +1,5 @@
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/1843845.png)](https://tryhackme.com/badge/1843845)
-
 # 💫 About Me:
-🔭 I’m currently working at Buta Group Azerbaijan<br>👯 I’m looking to collaborate on volunteer projects<br>🤝 I’m looking for help with improving my coding skills in Python<br>🌱 I’m currently learning about Cybersecurity<br>💬 Ask me about PHP, Laravel or ReactJS<br>⚡ Fun fact: My passion for cybersecurity and ethical hacking
+😊 I'm a Middle PHP Developer<br>🔭 I’m currently working at GlobalSoft<br>👯 I’m looking to collaborate on volunteer projects<br>🤝 I’m looking for help with improving my coding skills in Python<br>🌱 I’m currently learning about Cybersecurity<br>💬 Ask me about PHP, Laravel or Python<br>⚡ Fun fact: My passion for cybersecurity and ethical hacking
 
 
 ## 🌐 Socials:
